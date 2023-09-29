@@ -1,0 +1,54 @@
+leftnav:
+- identifier: c717c4e2-9f60-ef95-5981-5f32c2858a68
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4a948d50-d492-76c7-4390-5d1d1196bb5d
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e7467490-f602-a847-3f3c-30bc6629f9a0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 201da4cc-846d-dbf7-924f-48a88df19462
+  name: Digital Humanities at MIT
+  pageRef: /pages/instructor-insights/digital-humanities-at-mit
+  parent: e7467490-f602-a847-3f3c-30bc6629f9a0
+  weight: 40
+- identifier: b2198203-43c4-13e8-8606-4a4d40ea8d70
+  name: Digital Humanities Course Projects
+  pageRef: /pages/instructor-insights/digital-humanities-course-projects
+  parent: e7467490-f602-a847-3f3c-30bc6629f9a0
+  weight: 50
+- identifier: 62c423df-fd01-0667-0dd5-45a8c1f6d8b7
+  name: Situating Digital Humanities Projects in Real-World Contexts
+  pageRef: /pages/instructor-insights/situating-digital-humanities-projects-in-real-world-contexts
+  parent: e7467490-f602-a847-3f3c-30bc6629f9a0
+  weight: 60
+- identifier: 81c1c6ca-04ee-5ab0-1ed9-303701db2c25
+  name: Annotation Studio
+  pageRef: /pages/instructor-insights/on-annotation-studio
+  parent: e7467490-f602-a847-3f3c-30bc6629f9a0
+  weight: 70
+- identifier: 3809df48-1bba-de2d-c02b-92f06aeb6ee7
+  name: Course Iteration
+  pageRef: /pages/instructor-insights/course-iteration
+  parent: e7467490-f602-a847-3f3c-30bc6629f9a0
+  weight: 80
+- identifier: a70f1736-fefc-bf34-797b-7bf238aad1dc
+  name: Readings and Assignments
+  pageRef: /pages/readings-and-assignments
+  weight: 90
+- identifier: bfa0ba1a-f2c5-d875-0b5e-dd5d28457cfb
+  name: Data and Tools
+  pageRef: /pages/data-and-tools
+  weight: 100
+- identifier: b4302039-145d-4752-695e-307a998676ef
+  name: Student Projects
+  pageRef: /pages/student-projects
+  weight: 110
+- identifier: b5a7dc22-9e06-cc24-9b9d-105a1c488b5f
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 120
